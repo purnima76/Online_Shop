@@ -1,0 +1,18 @@
+{
+  "name": "myproject_1",
+  "version": "1.0.0",
+  "description": " This project will consist and node.js connectivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MYSQL",
+    "Node.js",
+    "Express",
+    "Body-parser",
+    "CRUD"
+  ],
+  "author": "Purnima Singh",
+  "license": "ISC"
+}
